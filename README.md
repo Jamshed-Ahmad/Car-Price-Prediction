@@ -16,7 +16,7 @@ In this project, I’ve built an intelligent machine learning model that predict
 ✅ Gradio-Based Web Interface – User-friendly web app for real-time price prediction 💻 <br>
 
 ## 📂 Dataset & Features <br>
-The dataset contains various attributes affecting house prices, including: <br>
+The dataset contains various attributes affecting Car prices, including: <br>
 | Feature Name | Description |
 |--------------|-------------| 
 symboling  | Risk level of the car (used by insurance) <br>
